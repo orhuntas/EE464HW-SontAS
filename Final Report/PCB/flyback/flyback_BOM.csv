@@ -1,0 +1,16 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"Ccs1,Cext1,CFB1,Css431,Cvdd1,Cz1";"C_0402_1005Metric";6;"C";;;
+2;"Cout1,Cout2";"CP_Radial_D12.5mm_P5.00mm";2;"CP1";;;
+3;"D1";"D_A-405_P7.62mm_Horizontal";1;"D";;;
+4;"Daux1";"D_A-405_P7.62mm_Horizontal";1;"DIODE";;;
+5;"Dclamp1";"D_A-405_P7.62mm_Horizontal";1;"D_Zener";;;
+6;"Dout1";"TO-247-2_Vertical";1;"D_Schottky";;;
+7;"J1,J2";"TerminalBlock_bornier-2_P5.08mm";2;"Screw_Terminal_01x02";;;
+8;"Lout1";"L_Radial_D7.8mm_P5.00mm_Fastron_07HCP";1;"L";;;
+9;"M1";"TO-3P-3_Vertical";1;"MNMOS";;;
+10;"R9,RFB1,RFB2,RFB3,RFB4,RinJ1,RLC1,RTL1,RVS1,RVS2";"R_0201_0603Metric";10;"R";;;
+11;"RCS1,Rvdd1";"R_0402_1005Metric";2;"R";;;
+12;"T1";"Transformer_CHK_EI30-2VA_2xSec";1;"Transformer_1P_2S";;;
+13;"TL431";"TO-92L_Inline_Wide";1;"TL431D";;;
+14;"U1";"DIP-4_W7.62mm";1;"SFH617A-1";;;
+15;"U2";"SOIC-8-N7_3.9x4.9mm_P1.27mm";1;"NCP1207B";;;

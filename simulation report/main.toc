@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Topology Selection}{2}{section.2}%
+\contentsline {section}{\numberline {3}Flyback Converter Design}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Design Goals}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Parameter Calculations}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Transformer Parameter Verification}{6}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Magnetic Design}{6}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Simulation Results}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Simulation Results for $ V_{in} = 24\tmspace +\thickmuskip {.2777em}V $}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Simulation Results for $ V_{in} = 48\tmspace +\thickmuskip {.2777em}V $}{15}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Component Selection}{22}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Transformer Selection}{22}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Analog Controllers & Components}{24}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Cable Selection}{24}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}MOSFET Selection}{25}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Diode Selection}{26}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Output Capacitor Selection}{26}{subsection.5.6}%
+\contentsline {section}{\numberline {6}Conclusion}{28}{section.6}%
