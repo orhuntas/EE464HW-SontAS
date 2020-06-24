@@ -1,0 +1,17 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C1,CFB1,Cz1,Cvdd1,Css431,Ccs1";"C_0402_1005Metric";6;"C";;;
+2;"HS1";"Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm";1;"Heatsink";;;
+3;"D5";"TO-220-2_Vertical";1;"D_Schottky";;;
+4;"RVS1,RLC1,RFB3,RFB4,RCS1";"R_0402_1005Metric";5;"R";;;
+5;"U3";"TO-92_Inline";1;"TL431LP";;;
+6;"Cout1";"CP_Elec_10x10";1;"CP1";;;
+7;"Dclamp1";"D_SMB";1;"D_Zener";;;
+8;"D1";"D_SMB_Handsoldering";1;"D";;;
+9;"J1,J2";"Banana_Jack_2Pin";2;"Conn_01x02";;;
+10;"Rvdd1,RTL1,Ropt1,RFB2,RFB1,RVS2";"R_0603_1608Metric";6;"R";;;
+11;"Cext1";"C_0603_1608Metric";1;"C";;;
+12;"D3";"D_SMA";1;"B120-E3";;;
+13;"U2";"SOIC-8-N7_3.9x4.9mm_P1.27mm";1;"UCC28740";;;
+14;"T1";"Transformer_CHK_EI30-2VA_2xSec";1;"Transformer_1P_2S";;;
+15;"U1";"DIP-4_W7.62mm";1;"SFH617A-1";;;
+16;"M1";"TO-3P-3_Vertical";1;"MNMOS";;;
